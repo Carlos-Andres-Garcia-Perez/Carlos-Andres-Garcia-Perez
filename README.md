@@ -12,7 +12,7 @@
 - 📝 Regularmente escribo artículos en [https://carlosgarciapinfo.wixsite.com/portfolio/blog](https://carlosgarciapinfo.wixsite.com/portfolio/blog)
 
 - 💬 Pregúntame sobre **Python, MySQL , Power Bi , Excel**
-- 
+ 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.sqltutorial.org/"> 
 <code><img src="https://user-images.githubusercontent.com/116538899/233759201-d509e809-d67a-4000-9d64-f449d6c4c1b8.png" alt="SQL" height="40"/></code>
@@ -25,9 +25,6 @@
 </a>
 <a href="https://learn.microsoft.com/en-us/power-bi/">
 <code><img src="https://user-images.githubusercontent.com/116538899/233759349-46b4115e-3d9d-4867-8bac-2fa34c48b3aa.png" alt="powerbi" height="40"/></code>
-</a>
-<a href="https://support.microsoft.com/en-us/training">
-<code><img src="https://user-images.githubusercontent.com/116538899/233759411-c0a73217-4362-4b48-be33-af5662874f23.png" alt="office365" height="40"/></code>
 </a>
 <a href="https://training.github.com/downloads/github-git-cheat-sheet/">
 <code><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="40"/></code>
@@ -46,7 +43,7 @@
 <code><img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="Markdown" height="30"/></code>
 </a>    
 
-
+</p>
 - 📫 Cómo contactarme **carlos.g.dat0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
